@@ -1,4 +1,2 @@
 streamlit 
-gtts
-os
-time
+gtts==2.5.1
